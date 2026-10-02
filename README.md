@@ -1,6 +1,7 @@
 # rumble-roses-xx-korean-patch
 늙고 병든 사람이 만든 XBOX360 럼블로즈 XX 비공식 한글패치에요
 Rumble Roses XX (Japan) 한글패치 - ISO 드래그 적용판
+
 패치를 적용할 ISO파일은 Rumble Roses XX (Japan).ISO 7.29GB (7,834,892,288 바이트)에요. 
 실기에서 작동은 보장하지 못해요. XENIA에서만 실행을 확인했어요. 
 
